@@ -11,7 +11,7 @@ import generate
 import payment
 
 GROUP_ID = '207393442'
-GROUP_TOKEN = 'a7dc5fc4c67bbaac52e46b3a29c3db21457bc797dcb2093a4edd4b90632e13a3183a9ccd828a73415cce2'
+GROUP_TOKEN = 'NOT FOR UESER'
 API_VERSION = '5.120'
 
 
